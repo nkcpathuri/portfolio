@@ -105,7 +105,7 @@ export const skills = [
       {
         name: "Spring",
         image:
-          "/images/spring.png",
+          "https://img.icons8.com/?size=512&id=90519&format=png",
       },
       {
         name: "AWS",
