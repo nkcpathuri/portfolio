@@ -41,7 +41,7 @@ export const skills = [
       {
         name: "Canva",
         image:
-          "/images/canva.png",
+          "https://drive.google.com/file/d/1tZxKtvpqGc8Q_PtZz_uZFGsLl_Kx3EUl/view?usp=sharing",
       },
       {
         name: "Framer",
