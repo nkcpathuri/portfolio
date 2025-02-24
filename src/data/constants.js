@@ -26,7 +26,7 @@ export const skills = [
       {
         name: "Pega",
         image:
-          "/images/pega.png",
+          "public/Images/pega.png",
       },
       {
         name: "React Js",
