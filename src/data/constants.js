@@ -26,7 +26,7 @@ export const skills = [
       {
         name: "Pega",
         image:
-          "public/Images/pega.png",
+          "https://drive.google.com/file/d/1KNQzbXARkID7r2VC_QW-X6OmXobHoGwv/view?usp=sharing",
       },
       {
         name: "React Js",
