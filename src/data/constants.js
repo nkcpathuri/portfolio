@@ -222,7 +222,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "/images/dafne.png",
+    img: "/Images/dafne.png",
     school: "Sri Shirdi Sai Dafne Asiatic School",
     date: "June 2018 - March 2019",
     grade: "391/500",
