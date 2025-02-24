@@ -142,7 +142,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [activeImage, setActiveImage] = useState(0);
   const theme = useTheme();
-  const images = ["/images/nkc.png", "/images/infinitewizcrafts.png"];
+  const images = ["https://drive.google.com/file/d/1meKwNyZv613Byg5imINqL40QnEJqZDiL/view?usp=sharing", "https://drive.google.com/file/d/1LyPN7rjRxP8w1K2_UHnofiQUOUNGTfL9/view?usp=sharing"];
 
   useEffect(() => {
     const interval = setInterval(() => {
