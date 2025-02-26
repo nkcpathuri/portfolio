@@ -26,7 +26,7 @@ export const skills = [
       {
         name: "Pega",
         image:
-          "https://www.pyze.com/wp-content/uploads/2020/07/pega-transparent-logo.png",
+          "https://drive.google.com/file/d/1KNQzbXARkID7r2VC_QW-X6OmXobHoGwv/view?usp=sharing",
       },
       {
         name: "React Js",
