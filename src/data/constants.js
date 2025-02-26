@@ -325,20 +325,6 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/nkcpathuri/LicensePlateDetection-YOLOv8",
   },
- 
-  {
-    id: 5,
-    title: "Face Recognition using OCR with Real Time Database",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "The People Attendance using OCR with Live Database project, built with Python and Deep Learning, automates attendance tracking. It uses OCR to capture and recognize text, such as names or IDs, from images or live video, and updates a live database in real-time. The deep learning model ensures accurate text recognition, making attendance tracking fast and efficient.",
-    image:
-      "/images/facedet.jpg",
-    tags: ["Optical Character Recognition (OCR)", "Python", "Machine Learning", "OpenCV", "Database Management", "Real-Time Data Processing"],
-    category: "machine learning",
-    github: "",    
-  },
-
 
   {
     id: 9,
