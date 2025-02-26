@@ -41,7 +41,7 @@ export const skills = [
       {
         name: "Canva",
         image:
-          "public/Images/canva.png",
+          "https://drive.google.com/file/d/1tZxKtvpqGc8Q_PtZz_uZFGsLl_Kx3EUl/view?usp=sharing",
       },
       {
         name: "Framer",
@@ -105,7 +105,7 @@ export const skills = [
       {
         name: "Spring",
         image:
-          "https://img.icons8.com/?size=512&id=90519&format=png",
+          "https://drive.google.com/file/d/16XD1tqReqdMvVi-KS3SVurpZ8R9gjZEV/view?usp=sharing",
       },
       {
         name: "AWS",
