@@ -3,6 +3,8 @@ import { Link as LinkR } from "react-router-dom";
 import styled, { useTheme } from "styled-components";
 import { Bio } from "../data/constants";
 import { MenuRounded } from "@mui/icons-material";
+import nkcImg from '../images/nkc.png';
+import inF from '../images/infinitewizcrafts.png';
 
 const Nav = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -142,7 +144,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [activeImage, setActiveImage] = useState(0);
   const theme = useTheme();
-  const images = ["public/Images/nkc.png", "public/Images/infinitewizcrafts.png"];
+  const images = [nkcImg, inF];
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -159,6 +161,7 @@ const Navbar = () => {
             <LogoImage
               key={index}
               src={img}
+              alt={images}
               isActive={index === activeImage}
             />
           ))}
