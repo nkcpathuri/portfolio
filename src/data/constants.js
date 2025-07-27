@@ -320,7 +320,7 @@ export const projects = [
     description:
       "The License Plate Detection Project uses YOLOv8 with TensorFlow to detect vehicle license plates in real-time. It employs deep learning concepts like Convolutional Neural Networks (CNNs) for feature extraction and the TensorFlow Keras for building the model. The project utilizes Binary Crossentropy as a loss function and Adam as an optimizer for efficient training. Techniques like backpropagation, ReLU activation, and Dropout regularization enhance model performance and prevent overfitting. Data augmentation and transfer learning improve accuracy, making the model suitable for traffic control, automated tolls, and vehicle tracking. The implementation of YOLOv8 with TensorFlow for license plate detection improved accuracy by approximately 45%, enhancing the model's effectiveness in real-time vehicle identification and tracking.",
     image:
-      "/images/yolov8.jpg",
+      "/Images/yolov8.jpg",
     tags: ["Computer Vision", "Deep Learning", "YOLOv8", "TensorFlow & Keras", "Convolutional Neural Networks (CNNs)"],
     category: "machine learning",
     github: "https://github.com/nkcpathuri/LicensePlateDetection-YOLOv8",
@@ -333,7 +333,7 @@ export const projects = [
     description:
       "The Stress Detection Project aims to develop a machine learning model that detects stress levels in individuals using physiological and behavioral data. It utilizes Decision Tree and Naive Bayes algorithms for classification. Key machine learning topics include supervised learning, feature selection, data preprocessing, model evaluation, cross-validation, and hyperparameter tuning. This project is valuable for enhancing mental health management in healthcare and workplace settings. The implementation of Decision Tree and Naive Bayes algorithms improved stress detection accuracy by approximately 30%, enhancing the model's reliability in identifying stress patterns. ",
     image:
-      "/images/stress.jpg",
+      "/Images/stress.jpg",
     tags: ["Python", "Machine Learning", "Supervised Learning", "Classification Algorithms", "Feature Selection"],
     category: "machine learning",
     github: "https://github.com/nkcpathuri/StressDetection-DecisionTree-NaiveBayes",    
@@ -346,7 +346,7 @@ export const projects = [
     description:
       "The Language Converter with Speech is a machine learning-based system that translates languages while integrating speech recognition and text-to-speech features. It converts spoken input into text, translates it, and vocalizes the output using NLP, Deep Learning, and Transformer models. This project enhances real-time communication and accessibility, making multilingual interactions seamless and efficient.",
     image:
-      "/images/lang.jpg",
+      "/Images/lang.jpg",
     tags: ["Python", "Machine Learning", "Natural Language Processing (NLP) ", "Recurrent Neural Networks (RNNs)", "Speech Processing"],
     category: "machine learning",
     github: "https://github.com/AswithReddyAtla/LangToLangTranslator",    
@@ -363,7 +363,7 @@ export const projects = [
     description:
       "The Employee Leave Management System is a full-stack project using Spring Boot and Microservices to manage employee leave requests. It offers secure login, lets employees apply for leaves, and allows managers to approve or reject them. The system tracks leave balances with Spring Data JPA and provides real-time updates.",
     image:
-      "/images/elm.gif",
+      "/Images/elm.gif",
     tags: ["Spring Boot ", "Microservices", "Spring Data JPA", "RESTful APIs"],
     category: "Full Stack",
     github: "https://github.com/Meghanadh123/Leave-Management-System",
@@ -375,22 +375,10 @@ export const projects = [
     description:
       "The Automobile Management System is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack to streamline vehicle management. It enables users to manage vehicle records, track inventory, schedule maintenance, and handle customer interactions. The system supports CRUD operations, user authentication, and real-time updates, ensuring efficient data handling. With an intuitive React.js frontend, a robust Node.js and Express.js backend, and MongoDB for scalable data storage, the application enhances accuracy, efficiency, and decision-making in automobile management.",
     image:
-      "/images/ams.png",
+      "/Images/ams.png",
     tags: ["MERN Stack", "React.js", "Node.js", "MySQL"],
     category: "Full Stack",
     github: "https://github.com/nkcpathuri/Automobile-Management-System-",
-  },
-  {
-    id: 20,
-    title: "Online Banking System",
-    date: "Dec 2021 - Apr 2022",
-    description:
-      "The Online Banking System is a Django-based web application that provides secure banking services. Users can create accounts, manage funds, perform transactions, check balances, and track history. It ensures data security with authentication, role-based access (customers, admins, staff), and RESTful APIs. With real-time updates and a user-friendly interface, it enhances digital banking while maintaining security and compliance.",
-    image:
-      "/images/obs.webp",
-    tags: ["Django", "Python", "MySQL", "HTML", "JS"],
-    category: "Full Stack",
-    github: "https://github.com/nkcpathuri/django_banking",
   },
 
 ];
