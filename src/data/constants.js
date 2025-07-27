@@ -46,7 +46,7 @@ export const skills = [
       {
         name: "Framer",
         image:
-          "https://static-00.iconduck.com/assets.00/framer-icon-2048x2048-msauaaio.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR56Lirdms1eL7chV3EXY-3qi1RVFGsjXELiQ&s",
       },
       {
         name: "Express",
