@@ -172,7 +172,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://iamreallycool.pythonanywhere.com/static/assets/phone_apps/surabhi_icon.jpg",
+    img: "https://pbs.twimg.com/profile_images/1293170311752347649/PVo5UDnK_400x400.jpg",
     role: "Public Relations Core Member",
     company: "KL Surabhi",
     date: "2025",
